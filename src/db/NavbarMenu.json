@@ -1,0 +1,178 @@
+[
+    {
+        "title": "Home",
+        "child": [
+            {
+                "title": "Market-1",
+                "url": "/"
+            },
+
+            {
+                "title": "Market-2",
+                "url": "/"
+            },
+
+            {
+                "title": "Market-3",
+                "url": "/"
+            },
+
+            {
+                "title": "Grocery-1",
+                "url": "/"
+            },
+
+            {
+                "title": "Grocery-2",
+                "url": "/"
+            },
+
+            {
+                "title": "Grocery-3",
+                "url": "/"
+            },
+
+            {
+                "title": "Gift Shop",
+                "url": "/"
+            }
+        ]
+    },
+
+    {
+        "title": "Pages",
+        "child": [
+            {
+                "title": "Sale Page",
+                "child": [
+                    {
+                        "title": "Version 1",
+                        "url": "/"
+                    },
+
+                    {
+                        "title": "Version 2",
+                        "url": "/"
+                    }
+                ]
+            },
+
+            {
+                "title": "Vendor",
+                "child": [
+                    {
+                        "title": "All vendors",
+                        "url": "/"
+                    },
+
+                    {
+                        "title": "Vendor store",
+                        "url": "/"
+                    }
+                ]
+            },
+
+            {
+                "title": "Shop",
+                "child": [
+                    {
+                        "title": "Search product",
+                        "url": "/"
+                    },
+
+                    {
+                        "title": "Single product",
+                        "url": "/"
+                    },
+
+                    {
+                        "title": "Cart",
+                        "url": "/cart"
+                    },
+
+                    {
+                        "title": "Checkout",
+                        "url": "/checkout"
+                    },
+
+                    {
+                        "title": "Alternative Checkout",
+                        "url": "/checkout-alternative"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "title": "User Account",
+        "child": [
+            {
+                "title": "Orders",
+                "child": [
+                    {
+                        "title": "Order List",
+                        "url": "/"
+                    },
+
+                    {
+                        "title": "Order Details",
+                        "url": "/"
+                    }
+                ]
+            },
+
+            {
+                "title": "Profile",
+                "child": [
+                    {
+                        "title": "View Profile",
+                        "url": "/"
+                    },
+
+                    {
+                        "title": "Edit Profile",
+                        "url": "/"
+                    }
+                ]
+            },
+
+            {
+                "title": "Address",
+                "child": [
+                    {
+                        "title": "Address List",
+                        "url": "/"
+                    },
+
+                    {
+                        "title": "Add Address",
+                        "url": "/"
+                    }
+                ]
+            },
+
+            {
+                "title": "Support tickets",
+                "child": [
+                    {
+                        "title": "All tickets",
+                        "url": "/"
+                    },
+
+                    {
+                        "title": "Ticket details",
+                        "url": "/"
+                    }
+                ]
+            },
+
+            {
+                "title": "Wishlist",
+                "url": "/"
+            }
+        ]
+    }
+]
+
+export NavbarMenu
